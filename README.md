@@ -1,4 +1,4 @@
-🌌 LuxNav AI - Space Navigation with DQN
+🌌 LuxNavAISpacegrid - Space Navigation with DQN
 A 3D space environment where AI agents navigate galaxies using a Deep Q-Network (DQN) and custom grid architecture.
 
 ⚡ Built in Colab. Pure code, no frontend.
