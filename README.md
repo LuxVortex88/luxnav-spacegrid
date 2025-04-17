@@ -22,9 +22,6 @@ README.md: Project info, setup, and features
 🛠️ Requirements
 Install basic libraries:
 
-bash
-Copy
-Edit
 pip install numpy matplotlib pandas
 # For DQN: torch or tensorflow
-Hope this is simpler and more to the point!
+
